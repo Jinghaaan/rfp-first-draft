@@ -20,13 +20,18 @@ This skill is built for **Claude Projects** (web/desktop chat). Your knowledge b
 
 ## Installation
 
-1. Click **Code → Download ZIP** at the top of this page
-2. Unzip the file — you'll get a folder called `rfp-first-draft-main`
-3. Rename the folder to `rfp-first-draft`
-4. Move it into your Claude skills folder:
-   - **Mac:** `~/.claude/skills/`
-   - **Windows:** `%USERPROFILE%\.claude\skills\`
-5. Restart Claude — the skill will be available automatically
+### Option 1 — Claude Code (one command)
+
+```bash
+git clone https://github.com/Jinghaaan/rfp-first-draft.git ~/.claude/skills/rfp-first-draft
+```
+
+### Option 2 — Claude Desktop or Web (no terminal needed)
+
+1. Click **Code → Download ZIP** at the top of this page and unzip it
+2. Rename the unzipped folder from `rfp-first-draft-main` to `rfp-first-draft`
+3. Re-zip the renamed folder
+4. In Claude, go to **Settings → Capabilities → Skills** → click **+** → upload the ZIP
 
 ## Folder Structure
 
