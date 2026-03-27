@@ -28,10 +28,8 @@ git clone https://github.com/Jinghaaan/rfp-first-draft.git ~/.claude/skills/rfp-
 
 ### Option 2 — Claude Desktop or Web (no terminal needed)
 
-1. Click **Code → Download ZIP** at the top of this page and unzip it
-2. Rename the unzipped folder from `rfp-first-draft-main` to `rfp-first-draft`
-3. Re-zip the renamed folder
-4. In Claude, go to **Settings → Capabilities → Skills** → click **+** → upload the ZIP
+1. Download **[rfp-first-draft.zip](https://github.com/Jinghaaan/rfp-first-draft/releases/latest/download/rfp-first-draft.zip)** from the Releases page
+2. In Claude, go to **Settings → Capabilities → Skills** → click **+** → upload the ZIP
 
 ## Folder Structure
 
